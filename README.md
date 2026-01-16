@@ -97,16 +97,15 @@ Financial-Risk-Analysis/
 │ └── Risk_Model.ipynb
 │
 ├── outputs/
-│ └── 
-│ └── 
-│ └── 
-│ └── 
-│ └── 
-│ └── 
-│ └── 
-│ └── 
-│ └── 
-│ └── 
+│ └── Age.png
+│ └── CreditAmount.png
+│ └── Duration.png
+│ └── Feature_Importance.png
+│ └── Heatmap.png
+│ └── LogisticRegression.png
+│ └── ROC_Curve.png
+│ └── RandomForestClassifier.png
+│ └── credit_risk_distribution.png
 │
 ├── README.md
 
